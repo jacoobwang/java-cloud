@@ -29,7 +29,7 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+              <caret line="2" column="77" lean-forward="true" selection-start-line="2" selection-start-column="77" selection-end-line="2" selection-end-column="77" />
             </state>
           </provider>
         </entry>
@@ -300,6 +300,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="150" y="188" width="1611" height="1133" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32928476" />
@@ -310,10 +311,10 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32889965" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3208292" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3208292" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3314213" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3314213" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32960895" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -621,7 +622,7 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <caret line="2" column="77" lean-forward="true" selection-start-line="2" selection-start-column="77" selection-end-line="2" selection-end-column="77" />
         </state>
       </provider>
     </entry>
